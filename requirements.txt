@@ -52,3 +52,7 @@ setuptools<81
 
 # Match the locally tested MLflow database dependency
 SQLAlchemy==2.0.54
+
+# Interactive dashboard
+streamlit==1.39.0
+plotly==5.24.1
